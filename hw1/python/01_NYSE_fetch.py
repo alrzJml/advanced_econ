@@ -1,12 +1,12 @@
 # %% [markdown]
-# علی‌رضا جمالی
-
-# %% [markdown]
-# ## دریافت اطلاعات نمادهای بورس نیویورک به کمک یاهو-فایننس
+# # دریافت اطلاعات نمادهای بورس نیویورک به کمک یاهو-فایننس
 
 # %%
-import yfinance as yf       # https://pypi.org/project/yfinance/
 import pandas as pd
+import yfinance as yf       # https://pypi.org/project/yfinance/
+
+# %% [markdown]
+# ## دریافت تاریخچه قیمتی نمادها
 
 # %% [markdown]
 # اطلاعات مربوط به این هشت سهم را یک جا دریافت می‌کنیم:
@@ -14,7 +14,6 @@ import pandas as pd
 # اپل، برک‌شایر-هث‌وی، گوگل، اینتل، کوکاکولا، مایکروسافت، تی‌اند‌تی، والمارت
 
 # %%
-# fetch batch tickers
 tickers = ['AAPL', 'BRK', 'GOOG', 'INTC', 'KO', 'MSFT', 'T', 'WMT']
 data = yf.download(tickers, group_by = 'ticker', start="2017-01-01", end="2022-10-17")
 
@@ -22,10 +21,13 @@ data = yf.download(tickers, group_by = 'ticker', start="2017-01-01", end="2022-1
 # متغیر data یک دیتافریم multi-index است که می‌توانیم اطلاعات هر کدام از هشت سهم را جدا کنیم و ببینیم:
 
 # %%
-data['MSFT'].tail()
+data['MSFT'][['Open', 'High', 'Low', 'Close', 'Adj Close']].tail()
+
+# %%
+data['MSFT', 'Adj Close'][-300:].plot(title='Adj Close for MSFT', figsize=(12,5))
 
 # %% [markdown]
-# ## نوشتن خروجی در فایل اکسل در شیت‌های جداگانه
+# ### نوشتن خروجی در فایل اکسل در شیت‌های جداگانه
 
 # %% [markdown]
 # برای نوشتن در خروجی، ابتدا اسم فایل و فولدر مربوطه را انتخاب می‌کنیم. سپس در صورت موجود نبودن فولدر، آن را می‌سازیم.
