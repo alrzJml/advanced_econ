@@ -1,0 +1,2992 @@
+[
+    {
+        "sym1": "AAPL",
+        "sym2": "DIS",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "GS-PK",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "HON",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "IBM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "JNJ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "JPM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "KO",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "MMM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AAPL",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AXP",
+        "sym2": "IBM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AXP",
+        "sym2": "JPM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AXP",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AXP",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AXP",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "CRM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "CAT",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "CVX",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DIS",
+        "sym2": "MMM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DIS",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "HD",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "JNJ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "JPM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "KO",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "DOW",
+        "sym2": "VZ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "GS-PK",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HD",
+        "sym2": "IBM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HD",
+        "sym2": "JPM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HD",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HD",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HD",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HON",
+        "sym2": "KO",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HON",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "HON",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "JPM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "KO",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "WBA",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "IBM",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "INTC",
+        "sym2": "JNJ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "INTC",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "INTC",
+        "sym2": "VZ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JNJ",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JNJ",
+        "sym2": "VZ",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "KO",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "MMM",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "PG",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "V",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "JPM",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "KO",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "KO",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "MCD",
+        "sym2": "NKE",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "MMM",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "NKE",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "NKE",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "PG",
+        "sym2": "UNH",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "UNH",
+        "sym2": "V",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "UNH",
+        "sym2": "WBA",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "UNH",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "V",
+        "sym2": "WMT",
+        "indice": "Dow Jones"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "ERFSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "MGDDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AIQUF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "CODGF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "GE",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "AXAHF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "ENGIY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "OCBI",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "PPRUF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "SBGSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "SNYNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BA",
+        "sym2": "WWLNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "PDRDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "THLLY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BNPQF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BOUYF",
+        "sym2": "CODGF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BOUYF",
+        "sym2": "GPDNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BOUYF",
+        "sym2": "HESAY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BOUYF",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "BOUYF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "CRARF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "ENGIY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "ERFSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "ESLOF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "MT",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "TTFNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CAPMF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CODGF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CODGF",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CODGF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "ENGIY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "ERFSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "OCBI",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "PDRDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "SNYNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRARF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRERF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRERF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "CRERF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "DASTY",
+        "sym2": "ENGIY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "DASTY",
+        "sym2": "ERFSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "DASTY",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "ERFSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "GPDNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "MGDDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "OCBI",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "PDRDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "SNYNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ENGIY",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ERFSF",
+        "sym2": "MGDDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ERFSF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ERFSF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ESLOF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ESLOF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GE",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GE",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GE",
+        "sym2": "TTFNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GE",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "HESAY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "GPDNF",
+        "sym2": "VEOEY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "LVMHF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "PDRDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "HESAY",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LRLCF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LRLCF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LRLCF",
+        "sym2": "WWLNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LVMHF",
+        "sym2": "PDRDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LVMHF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LVMHF",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "LVMHF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MGDDF",
+        "sym2": "PPRUF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MGDDF",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MGDDF",
+        "sym2": "SBGSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MGDDF",
+        "sym2": "SNYNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MGDDF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MT",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MT",
+        "sym2": "SAFRF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "MT",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "OCBI",
+        "sym2": "PPRUF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "OCBI",
+        "sym2": "SBGSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "OCBI",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "RNSDF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PDRDF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PGPEF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PPRUF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "PPRUF",
+        "sym2": "WWLNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "SCGLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "STMEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "THLLY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "RNSDF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SAFRF",
+        "sym2": "SBGSF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SAFRF",
+        "sym2": "THLLY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SAFRF",
+        "sym2": "TTFNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SAFRF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SBGSF",
+        "sym2": "SNYNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SBGSF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SCGLF",
+        "sym2": "STLA",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SCGLF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SCGLF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SNYNF",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "SNYNF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "STLA",
+        "sym2": "TLPFY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "STLA",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "STLA",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "STMEF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "THLLY",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "THLLY",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "TLPFY",
+        "sym2": "UNBLF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "TLPFY",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "UNBLF",
+        "sym2": "VCISY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "UNBLF",
+        "sym2": "WWLNF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "VCISY",
+        "sym2": "VEOEY",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "VCISY",
+        "sym2": "VIVEF",
+        "indice": "CAC 40"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "BDRFY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "BMWYY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "BNTGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "EADSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "FMS",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "MBGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "MKGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "SAP",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ADDDF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "AZSEY",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "AZSEY",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "AZSEY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "AZSEY",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "AZSEY",
+        "sym2": "SMMNY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "EADSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "SMMNY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BAYZF",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BDRFY",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BDRFY",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BFFAF",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BMWYY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BMWYY",
+        "sym2": "HVRRY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BMWYY",
+        "sym2": "MKGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BMWYY",
+        "sym2": "MURGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BMWYY",
+        "sym2": "QGEN",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "DBOEY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "SYIEY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "BNTGY",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "CTTAF",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "CTTAF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DB",
+        "sym2": "DPSGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DB",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DBOEY",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DBOEY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DBOEY",
+        "sym2": "SYIEY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "DTEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "DTRUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "EADSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "HLBZF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "MKGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "MURGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DPSGY",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "DTRUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "MBGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTEGF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTRUY",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTRUY",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTRUY",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTRUY",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "DTRUY",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "EADSF",
+        "sym2": "ENAKF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "EADSF",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "EADSF",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "EADSF",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "EADSF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "FSNUY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "HENKY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "HVRRY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "IFNNF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "LIN",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "MURGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "SYIEY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "ENAKF",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FMS",
+        "sym2": "MKGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "HENKY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "HLBZF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "HVRRY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "IFNNF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "MBGAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "MURGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "SYIEY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "FSNUY",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "HLBZF",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "HLBZF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "HVRRY",
+        "sym2": "MURGY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "HVRRY",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "HVRRY",
+        "sym2": "SAP",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "IFNNF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "LIN",
+        "sym2": "SMEGF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MBGAF",
+        "sym2": "MTUAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MBGAF",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MKGAF",
+        "sym2": "SAP",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MKGAF",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MTUAF",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MTUAF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MURGY",
+        "sym2": "PMMAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MURGY",
+        "sym2": "SUVPF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MURGY",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "MURGY",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "PMMAF",
+        "sym2": "POAHY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "PMMAF",
+        "sym2": "RWEOY",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "PMMAF",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "PMMAF",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "POAHY",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "QGEN",
+        "sym2": "SAP",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "RWEOY",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "RWEOY",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "SAP",
+        "sym2": "SMAWF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "SAP",
+        "sym2": "ZLDSF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "SMAWF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "SMEGF",
+        "sym2": "VLKAF",
+        "indice": "Dax"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "خساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "خودرو",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "رانفور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "فخاس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "اخابر",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تاپیکو",
+        "sym2": "خبهمن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تاپیکو",
+        "sym2": "شسپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تاپیکو",
+        "sym2": "فاسمین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تاپیکو",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تاپیکو",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "خبهمن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "سفارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "فارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "تیپیکو",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "خودرو",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "شخارک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "شفن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "شیراز",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "فاراک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حفاری",
+        "sym2": "کنور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حکشتی",
+        "sym2": "خساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حکشتی",
+        "sym2": "رمپنا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حکشتی",
+        "sym2": "شیران",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حکشتی",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "حکشتی",
+        "sym2": "وساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "خودرو",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "فارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "وتوسم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خبهمن",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "خودرو",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "رانفور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "رمپنا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "شخارک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "شسپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "وتوسم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "ونیکی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خساپا",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "رمپنا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "شیران",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "فاراک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "فاسمین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "فخوز",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "ونیکی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "خودرو",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "شیران",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "فاراک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رانفور",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "سفارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "شبهرن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "فخاس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "وساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "رمپنا",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شاراک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شبهرن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شخارک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شسپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شفن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "شیراز",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "فاسمین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "فخاس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "وامید",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "وبشهر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "سفارس",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "شسپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "شپدیس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "کنور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شاراک",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبریز",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبریز",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "فاسمین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "وامید",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبندر",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شبهرن",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "شفن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شخارک",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "شفن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "شپدیس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "شیراز",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "فاراک",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "وبشهر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "وصندوق",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "وپارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "پارسان",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شسپا",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "شپدیس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "شیراز",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شفن",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شپدیس",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شپدیس",
+        "sym2": "پارسان",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیراز",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیراز",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیراز",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیراز",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "شیران",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاراک",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاراک",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاراک",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاراک",
+        "sym2": "وپارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاراک",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فارس",
+        "sym2": "فاسمین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فارس",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فارس",
+        "sym2": "وبشهر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فارس",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فارس",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "وامید",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "کنور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فاسمین",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخاس",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخاس",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخاس",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخاس",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخاس",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخوز",
+        "sym2": "فملی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخوز",
+        "sym2": "وامید",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخوز",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فخوز",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "فولاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "همراه",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وامید",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وبشهر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وتوسم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وصندوق",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "ونوین",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "ونیکی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وپارس",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "پارسان",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "کنور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فملی",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "وبشهر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "وصندوق",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "ونیکی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "کنور",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "فولاد",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "همراه",
+        "sym2": "وبصادر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "همراه",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "همراه",
+        "sym2": "وساپا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "همراه",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وامید",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وامید",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبشهر",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبشهر",
+        "sym2": "وکار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبصادر",
+        "sym2": "وخارزم",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبصادر",
+        "sym2": "ونیکی",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبصادر",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وبصادر",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وتوسم",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وخارزم",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وساپا",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وصندوق",
+        "sym2": "وغدیر",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وصندوق",
+        "sym2": "ومعادن",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وصندوق",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وغدیر",
+        "sym2": "پارسان",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وغدیر",
+        "sym2": "کرماشا",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "ومعادن",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "ونوین",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "ونیکی",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وپارس",
+        "sym2": "وپاسار",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "وپاسار",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "پارسان",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "کنور",
+        "sym2": "کچاد",
+        "indice": "Teh50"
+    },
+    {
+        "sym1": "کنور",
+        "sym2": "کگل",
+        "indice": "Teh50"
+    }
+]
