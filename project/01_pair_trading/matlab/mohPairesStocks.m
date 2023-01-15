@@ -78,7 +78,7 @@ for i=1:1
 
 
 % Johansen cointegration test for finding paires
-   [H,pvalue,~,~,mles]=jcitest(y,'lags',3,'model','H1');
+   [H,pvalue,~,~,mles]=jcitest(y,'lags',1,'model','H1');
    if H{1,1}==1
     paires(i,k)=1;
     PairesName(i,1:2)={tickers(i,j) tickers(k,j)};
